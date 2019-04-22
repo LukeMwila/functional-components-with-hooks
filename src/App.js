@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import Playground from './components/Playground';
+import TodoList from './components/TodoList';
 
 class App extends Component {
   render() {
     return (
-      <Playground />
+      <TodoList />
     );
   }
 }
